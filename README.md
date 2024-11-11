@@ -70,6 +70,7 @@ Delay = 1.02465 * 10^-10 s
 - Optimized faster designs can be explored for design of the flipflop
 
 ## Contributors 
+- **Harika Banala**
 
 - **Maaz Ahmed**  
 
