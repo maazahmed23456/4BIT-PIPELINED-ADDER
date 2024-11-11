@@ -34,24 +34,31 @@ rst: Reset signal – initializes all flip-flops.
 </p>
 
 ## Layouts
+
+### FF
 <p align="center">
   <img width="800" height="500" src="/Images/FF LAYOUT.png">
 </p>
 
+### 1 BIT ADDER
 <p align="center">
   <img width="800" height="500" src="/Images/1 BIT ADDER LAYOUT.png">
 </p>
 
 ## Simulation
 
+### INPUT WAVEFORM
 <p align="center">
   <img width="800" height="500" src="/Images/INPUTS.png">
 </p>
 
+### OUTPUT WAVEFORM
 <p align="center">
   <img width="800" height="500" src="/Images/OUTPUTS.png">
 </p>
 
+- Worst case delay was calculated using the calculator in Cadence.
+Delay = 1.02465 * 10^-10 s
 ***************
 
 ## Future Work
