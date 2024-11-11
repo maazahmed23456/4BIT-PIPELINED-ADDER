@@ -1,4 +1,4 @@
-# 4bit-pipelined-adder
+# 4 BIT PIPELINED ADDER
 
 This repository contains project work on designing a 4-bit pipelined ripple carry adder (RCA) using D flip-flops between each adder stage. This pipelined architecture reduces the overall delay by splitting the carry propagation path, making it more efficient for higher-frequency operations.
 
