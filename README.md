@@ -18,17 +18,17 @@ rst: Reset signal – initializes all flip-flops.
 
 ## Schematics and Symbols
 
-### Flipflop
+### 1 BIT ADDER
  <p align="center">
-  <img width="800" height="500" src="/Images/FF.png">
+  <img width="800" height="500" src="/Images/1 BIT ADDER SCHEMATIC.png">
 </p>
 
-### RCA 
+### 4 BIT RCA 
 <p align="center">
   <img width="800" height="500" src="/Images/4 BIT ADDER SCHEMATIC.png">
 </p>
 
-### RCA (Symbol)
+### 4 BIT RCA (Symbol)
 <p align="center">
   <img width="800" height="500" src="/Images/4 BIT ADDER SYMBOL.png">
 </p>
