@@ -33,18 +33,6 @@ rst: Reset signal – initializes all flip-flops.
   <img width="800" height="500" src="/Images/4 BIT ADDER SYMBOL.png">
 </p>
 
-## Layouts
-
-### FF
-<p align="center">
-  <img width="800" height="500" src="/Images/FF LAYOUT.png">
-</p>
-
-### 1 BIT ADDER
-<p align="center">
-  <img width="800" height="500" src="/Images/1 BIT ADDER LAYOUT.png">
-</p>
-
 ## Simulation
 
 ### INPUT WAVEFORM
