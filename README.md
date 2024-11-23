@@ -51,7 +51,7 @@ Delay = 1.02465 * 10^-10 s
 
 ## Future Work
 
-- The layout can be writted into GDS and be manufactured in fabrication facility and the obtained die can be tested with real input and observe the accuracy of results
+- Layout of adder can be done and be manufactured in fabrication facility and the obtained die can be tested with real input and observe the accuracy of results
 
 - The symbol can be utilized to make adders with different widths like 8 bit , 16 bit , 32 bit etc
 
